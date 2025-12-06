@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.ING one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.ing        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.ing      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.ing        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.ing      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.ing  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.ing      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.ing  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.ING one word domains]
 | abatic.ing     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.ing    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.ing   | available | 50       | 1%     | 8      |           |         |         |
-| abc.ing        | available | 102      | 41%    | 3      |           |         |         |
+| abc.ing        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.ing  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.ing  | premium   | 82       | 5%     | 9      |           |         |         |
 | abdominous.ing | available | 56       | 1%     | 10     |           |         |         |
