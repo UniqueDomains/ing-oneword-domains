@@ -75,10 +75,10 @@ print(df.head())
 | seventeen.ing   | premium   | $112.50   | $112.50       | 84             | 62     | 9      | name.com                  |
 | nationwide.ing  | available | $16.98    | —             | 76             | 66     | 10     | namecheap                 |
 | bucketlist.ing  | resell    | —         | —             | 76             | 21     | 11     | GoDaddy.com, LLC          |
-| free.ing        | premium   | $3,750    | $3,750        | 88             | 59     | 4      | name.com                  |
+| ace.ing         | premium   | $812.50   | $812.50       | 88             | 57     | 3      | name.com                  |
 | united.ing      | available | $16.98    | —             | 74             | 43     | 6      | namecheap                 |
 | enlighten.ing   | resell    | —         | —             | 77             | 20     | 9      | Porkbun LLC               |
-| ace.ing         | premium   | $812.50   | $812.50       | 88             | 57     | 3      | name.com                  |
+| free.ing        | premium   | $3,750    | $3,750        | 88             | 57     | 4      | name.com                  |
 | nimble.ing      | available | $16.98    | —             | 94             | 33     | 6      | namecheap                 |
 | jabber.ing      | resell    | —         | —             | 88             | 15     | 6      | GoDaddy.com, LLC          |
 | data.ing        | premium   | $1,690    | $1,690        | 70             | 56     | 4      | namecheap                 |
