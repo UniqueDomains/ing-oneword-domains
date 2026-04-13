@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .ing one-word domains from Unique 
 
 **Public extract:** 9,880 rows · **Live catalog:** 9,880 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/ing`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | nimble.ing      | available | $16.98    | —             | 94             | 33     | 6      | namecheap                 |
 | jabber.ing      | resell    | —         | —             | 88             | 15     | 6      | GoDaddy.com, LLC          |
 | data.ing        | premium   | $1,690    | $1,690        | 70             | 56     | 4      | namecheap                 |
-| ethereal.ing    | available | $16.98    | —             | 88             | 32     | 8      | namecheap                 |
+| ethereal.ing    | available | $16.98    | —             | 88             | 31     | 8      | namecheap                 |
 | headline.ing    | resell    | —         | —             | 92             | 14     | 8      | GoDaddy.com, LLC          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
