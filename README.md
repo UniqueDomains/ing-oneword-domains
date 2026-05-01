@@ -1,10 +1,10 @@
-# Available .ING One-Word Domains (12,386)
+# Available .ING One-Word Domains (12,931)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C386%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C931%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ing one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,386 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,931 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,386 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,931 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/ing`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | keepthechange.ing | available | $16.98    | —             | 46             | 59     | 15     | namecheap                  |
 | organiz.ing       | resell    | —         | —             | 76             | 12     | 10     | Porkbun LLC                |
 | donuts.ing        | premium   | $437.50   | —             | 54             | 62     | 6      | name.com                   |
-| rekt.ing          | available | $16.98    | —             | 40             | 24     | 4      | namecheap                  |
+| prompts.ing       | available | $16.98    | —             | 54             | 39     | 7      | namecheap                  |
 | motorrac.ing      | resell    | —         | —             | 74             | 4      | 12     | Marcaria.com International |
-| Books.ing         | premium   | $1,820    | $1,820        | 52             | 49     | 5      | namecheap                  |
-| deeplearning.ing  | available | $16.98    | —             | 74             | 23     | 13     | namecheap                  |
 | cars.ing          | premium   | $1,625    | —             | 66             | 47     | 4      | name.com                   |
-| Allie.ing         | available | $16.98    | —             | 72             | 21     | 5      | namecheap                  |
+| deeplearning.ing  | available | $16.98    | —             | 74             | 23     | 13     | namecheap                  |
 | coins.ing         | premium   | $812.50   | —             | 56             | 41     | 5      | name.com                   |
-| HarryPotter.ing   | available | $16.98    | —             | 72             | 20     | 12     | namecheap                  |
+| Allie.ing         | available | $16.98    | —             | 72             | 21     | 5      | namecheap                  |
 | shortcuts.ing     | premium   | $62.50    | —             | 48             | 41     | 10     | name.com                   |
-| snaps.ing         | available | $16.98    | —             | 52             | 20     | 5      | namecheap                  |
+| HarryPotter.ing   | available | $16.98    | —             | 72             | 20     | 12     | namecheap                  |
 | matcha.ing        | premium   | $62.50    | —             | 86             | 39     | 6      | name.com                   |
-| rivals.ing        | available | $16.98    | —             | 48             | 20     | 6      | namecheap                  |
-| whynot.ing        | premium   | $187.50   | —             | 74             | 39     | 7      | name.com                   |
-| outofoffice.ing   | available | $16.98    | —             | 61             | 19     | 13     | namecheap                  |
+| smartest.ing      | available | $16.98    | —             | 64             | 20     | 8      | namecheap                  |
 | neuroscience.ing  | premium   | $62.50    | —             | 80             | 37     | 12     | name.com                   |
-| gobeyond.ing      | available | $16.98    | —             | 76             | 18     | 9      | namecheap                  |
+| snaps.ing         | available | $16.98    | —             | 52             | 20     | 5      | namecheap                  |
 | aliens.ing        | premium   | $437.50   | —             | 56             | 35     | 6      | name.com                   |
+| perks.ing         | available | $16.98    | —             | 62             | 19     | 5      | namecheap                  |
+| Cats.ing          | premium   | $1,820    | $1,820        | 59             | 33     | 4      | namecheap                  |
+| outofoffice.ing   | available | $16.98    | —             | 61             | 19     | 13     | namecheap                  |
+| teams.ing         | premium   | $812.50   | —             | 62             | 32     | 5      | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,386 live domains                              |
+| 1,000-row public sample | 12,931 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ING One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ING One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
