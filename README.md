@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ing one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,930 domains · **Median ask:** $491.06 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/ing`  
 **Best for:** founders, investors, studios
 
@@ -80,9 +80,9 @@ print(df.head())
 | neuroscience.ing  | premium   | $62.50    | —             | 80             | 37     | 12     | name.com                   |
 | snaps.ing         | available | $16.98    | —             | 52             | 20     | 5      | namecheap                  |
 | aliens.ing        | premium   | $437.50   | —             | 56             | 35     | 6      | name.com                   |
-| perks.ing         | available | $16.98    | —             | 62             | 19     | 5      | namecheap                  |
+| gobeyond.ing      | available | $16.98    | —             | 76             | 19     | 9      | namecheap                  |
 | Cats.ing          | premium   | $1,820    | $1,820        | 59             | 33     | 4      | namecheap                  |
-| outofoffice.ing   | available | $16.98    | —             | 61             | 19     | 13     | namecheap                  |
+| perks.ing         | available | $16.98    | —             | 62             | 19     | 5      | namecheap                  |
 | teams.ing         | premium   | $812.50   | —             | 62             | 32     | 5      | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ING One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ING One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
