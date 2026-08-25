@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ing one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,633 domains · **Median ask:** $564.22 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/ing`
 **Best for:** founders, investors, studios
 
@@ -67,6 +67,7 @@ print(df.head())
 | half.ing   | premium   | $1,625    | —             | high           | low    | 4      | name.com         |
 | bad.ing    | premium   | $1,625    | —             | high           | medium | 3      | name.com         |
 | great.ing  | premium   | $1,625    | —             | high           | low    | 5      | name.com         |
+| off.ing    | premium   | $1,625    | —             | high           | low    | 3      | name.com         |
 | ague.ing   | available | $12.98    | $16.98        | low            | low    | 4      | namecheap        |
 | hurry.ing  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
 | ana.ing    | premium   | $1,625    | —             | high           | low    | 3      | name.com         |
@@ -83,7 +84,6 @@ print(df.head())
 | CNN.ing    | premium   | $437.50   | —             | high           | low    | 3      | name.com         |
 | flop.ing   | available | $16.98    | —             | medium         | low    | 4      | namecheap        |
 | coy.ing    | premium   | $112.50   | $112.50       | medium         | low    | 3      | name.com         |
-| guts.ing   | available | $16.98    | —             | high           | low    | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ING One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ING One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
