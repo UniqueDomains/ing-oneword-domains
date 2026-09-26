@@ -1,10 +1,10 @@
-# Available .ING One-Word Domains (33,654)
+# Available .ING One-Word Domains (23,789)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C654%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C789%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ing one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,654 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,789 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,654 domains · **Median ask:** $366.36 · **High-demand under $2,500:** 20
+**Public extract:** 1,000 rows · **Live catalog:** 23,789 domains · **Median ask:** $564.66 · **High-demand under $2,500:** 36
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/ing`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ague.ing   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap        |
-| hurry.ing  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
-| ana.ing    | premium   | $1,625    | —             | high           | low    | 3      | name.com         |
-| ahuh.ing   | available | $16.98    | —             | high           | low    | 4      | namecheap        |
-| squat.ing  | resell    | —         | —             | high           | low    | 5      | Namecheap Inc.   |
-| arc.ing    | premium   | $3,750    | $3,750        | high           | medium | 3      | name.com         |
-| arum.ing   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap        |
-| jabber.ing | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| ava.ing    | premium   | $812.50   | —             | high           | medium | 3      | name.com         |
-| audi.ing   | available | $16.98    | —             | high           | high   | 4      | namecheap        |
-| axe.ing    | premium   | $437.50   | —             | high           | low    | 3      | name.com         |
-| avon.ing   | available | $16.98    | —             | high           | low    | 4      | namecheap        |
+| aras.ing   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap        |
+| frugal.ing | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
 | azo.ing    | premium   | $112.50   | $112.50       | high           | low    | 3      | name.com         |
-| dewy.ing   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap        |
-| clv.ing    | premium   | $112.50   | $112.50       | high           | low    | 3      | name.com         |
-| ecru.ing   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap        |
-| cnn.ing    | premium   | $437.50   | —             | high           | low    | 3      | name.com         |
-| eyry.ing   | available | $12.98    | $16.98        | high           | low    | 4      | namecheap        |
-| cxx.ing    | premium   | $112.50   | $112.50       | high           | low    | 3      | name.com         |
-| flew.ing   | available | $16.98    | —             | high           | low    | 4      | namecheap        |
+| arda.ing   | available | $12.98    | $16.98        | high           | low    | 4      | namecheap        |
+| bey.ing    | premium   | $117      | $117          | medium         | low    | 3      | namecheap        |
+| arse.ing   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap        |
+| bid.ing    | premium   | $1,625    | —             | high           | low    | 3      | name.com         |
+| awed.ing   | available | $12.98    | $16.98        | high           | low    | 4      | namecheap        |
+| bjp.ing    | premium   | $112.50   | —             | high           | low    | 3      | name.com         |
+| bilk.ing   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap        |
+| bpi.ing    | premium   | $117      | $117          | high           | low    | 3      | namecheap        |
+| bine.ing   | available | $12.98    | $16.98        | high           | low    | 4      | namecheap        |
+| btw.ing    | premium   | $112.50   | —             | high           | low    | 3      | name.com         |
+| birr.ing   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap        |
+| bus.ing    | premium   | $3,750    | —             | high           | low    | 3      | name.com         |
+| dior.ing   | available | $12.98    | $16.98        | high           | medium | 4      | namecheap        |
+| buy.ing    | premium   | $130,000  | $130,000      | high           | medium | 3      | namecheap        |
+| doob.ing   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap        |
+| doc.ing    | premium   | $845      | $845          | high           | medium | 3      | namecheap        |
+| edgy.ing   | available | $12.98    | $16.98        | high           | low    | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,654 live domains                        |
+| 1,000-row public sample | 23,789 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 20 high-demand names under $2,500          |
+| Basic exported fields   | 36 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ING One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ING One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
