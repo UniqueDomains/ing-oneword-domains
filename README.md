@@ -1,10 +1,10 @@
-# Available .ING One-Word Domains (33,289)
+# Available .ING One-Word Domains (35,479)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C289%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C479%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ing one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,289 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,479 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,289 domains · **Median ask:** $410.25 · **High-demand under $2,500:** 53
+**Public extract:** 1,000 rows · **Live catalog:** 35,479 domains · **Median ask:** $388.87 · **High-demand under $2,500:** 58
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/ing`
 **Best for:** founders, investors, studios
 
@@ -76,9 +76,9 @@ print(df.head())
 | bute.ing   | available | $14       | —             | medium         | low    | 4      | unstoppable      |
 | bey.ing    | premium   | $117      | $117          | medium         | low    | 3      | namecheap        |
 | cmos.ing   | available | $10.20    | $10.20        | medium         | low    | 4      | cloudflare       |
-| bhp.ing    | premium   | $93.35    | $93.35        | high           | low    | 3      | spaceship        |
-| cnbc.ing   | available | $10.55    | $10.55        | high           | medium | 4      | spaceship        |
 | bid.ing    | premium   | $1,419.68 | $1,419.68     | high           | low    | 3      | porkbun          |
+| cnbc.ing   | available | $10.55    | $10.55        | high           | medium | 4      | spaceship        |
+| bmp.ing    | premium   | $90.20    | —             | high           | low    | 3      | unstoppable      |
 | dior.ing   | available | $12.98    | $16.98        | high           | medium | 4      | namecheap        |
 | btw.ing    | premium   | $93.35    | $93.35        | high           | low    | 3      | spaceship        |
 | doob.ing   | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap        |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,289 live domains                        |
+| 1,000-row public sample | 35,479 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 53 high-demand names under $2,500          |
+| Basic exported fields   | 58 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ING One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ING One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
